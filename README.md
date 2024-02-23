@@ -13,3 +13,6 @@ TBD
 
 ## architecture
 TBD
+
+## DB
+PostgleSQL
