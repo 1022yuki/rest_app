@@ -10,9 +10,7 @@ FastAPI
 Flutter
 ### web frontend
 TBD
-
 ## architecture
 TBD
-
 ## DB
 PostgleSQL
