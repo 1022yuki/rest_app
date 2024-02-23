@@ -1,12 +1,12 @@
 # rest_app
 
-## 仕様書
+## what is this app?
 https://docs.google.com/document/d/1UdqgFYvN1Q4rn-Gv8WAIj7akb5arHwW421DsA3jEjBQ/edit?usp=sharing
 
-## 技術スタック
-### バックエンド
+## tech stacks
+### backend
 FastAPI
-### モバイル
+### mobile frontend
 Flutter
-### webフロント
-検討中
+### web frontend
+TBD
