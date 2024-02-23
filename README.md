@@ -10,3 +10,6 @@ FastAPI
 Flutter
 ### web frontend
 TBD
+
+## architecture
+TBD
